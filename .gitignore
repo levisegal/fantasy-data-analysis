@@ -1,1 +1,17 @@
-node_modules
+#################
+## Sublime Text
+#################
+
+*.sublime-project
+*.sublime-workspace
+
+#################
+## Directories
+#################
+node_modules/
+
+#################
+## Misc
+#################
+# Mac crap
+.DS_Store
